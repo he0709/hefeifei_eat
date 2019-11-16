@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eat_model/common_api/common_api.iml" filepath="$PROJECT_DIR$/eat_model/common_api/common_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eat_model/config_server/config_server.iml" filepath="$PROJECT_DIR$/eat_model/config_server/config_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eat_model/eat_gateway/eat_gateway.iml" filepath="$PROJECT_DIR$/eat_model/eat_gateway/eat_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eat_model/eat_model.iml" filepath="$PROJECT_DIR$/eat_model/eat_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eat_model/eureka_server/eureka_server.iml" filepath="$PROJECT_DIR$/eat_model/eureka_server/eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eat_model/product_service/product_service.iml" filepath="$PROJECT_DIR$/eat_model/product_service/product_service.iml" />
+    </modules>
+  </component>
+</project>

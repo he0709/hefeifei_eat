@@ -1,0 +1,9 @@
+server:
+  port: 7001
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/he0709/hefeifei_eat/tree/master/eat_model
+          search-paths: config-repo
